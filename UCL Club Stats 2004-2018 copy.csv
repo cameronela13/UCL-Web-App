@@ -1,0 +1,481 @@
+Year,Team,Nation,MP,Won,Drawn,Lost,GF,GA,GD,Yellow,Red,Group_Finish,Group_Points,Tournament_Finish
+2004,FC Porto,Portugal,13,7,5,1,20,12,8,31,0,Second,11,Winner
+2004,Monaco,France,13,6,3,4,27,19,8,19,3,First,11,Runner-Up
+2004,Deportivo,Spain,12,6,2,4,19,17,2,18,2,Second,10,Semifinal
+2004,Real Madrid,Spain,10,6,3,1,18,11,7,14,0,First,14,Quarterfinal
+2004,Chelsea,England,12,6,4,2,16,10,6,24,2,First,13,Semifinal
+2004,Arsenal,England,10,5,2,3,16,11,5,8,0,First,10,Quarterfinal
+2004,Man United,England,8,5,1,2,15,5,10,10,1,First,15,RO16
+2004,Juventus,Italy,8,4,1,3,15,8,7,17,0,First,13,RO16
+2004,AC Milan,Italy,10,5,2,3,12,9,3,14,2,First,10,Quarterfinal
+2004,Lyon,France,10,5,2,3,11,11,0,14,1,First,10,Quarterfinal
+2004,Stuttgart,Germany,8,4,1,3,9,7,2,8,0,Second,12,RO16
+2004,Lokomotiv Moskva,Russia,8,3,2,3,9,9,0,16,2,Second,8,RO16
+2004,Celta,Spain,8,2,3,3,9,11,-2,22,1,Second,9,RO16
+2004,Marseille,France,6,1,1,4,9,11,-2,8,0,Third,4,Group Stage
+2004,Dynamo Kyiv,Ukraine,6,2,1,3,8,8,0,7,0,Fourth,7,Group Stage
+2004,Inter Milan,Italy,6,2,2,2,8,11,-3,9,0,Third,8,Group Stage
+2004,Celtic,Scotland,6,2,1,3,8,7,1,11,0,Third,7,Group Stage
+2004,PSV,Netherlands,6,3,1,2,8,7,1,13,1,Third,10,Group Stage
+2004,Real Sociedad,Spain,8,2,3,3,8,10,-2,12,1,Second,9,RO16
+2004,Bayern Munich,Germany,8,2,4,2,7,7,0,21,1,Second,9,RO16
+2004,Lazio,Italy,6,1,2,3,6,10,-4,13,1,Fourth,5,Group Stage
+2004,Sparta Praha,Czechia,8,2,3,3,6,9,-3,6,0,Second,8,RO16
+2004,Galatasaray,Turkey,6,2,1,3,6,8,-2,14,2,Third,7,Group Stage
+2004,Olympiacos,Greece,6,1,1,4,6,13,-7,14,1,Fourth,4,Group Stage
+2004,Ajax,Netherlands,6,2,0,4,6,7,-1,16,1,Fourth,6,Group Stage
+2004,Panathinaikos,Greece,6,1,1,4,5,13,-8,12,1,Third,4,Group Stage
+2004,Besiktas,Turkey,6,2,1,3,5,7,-2,12,1,Third,7,Group Stage
+2004,Club Brugge,Belgium,6,2,2,2,5,6,-1,10,2,Third,8,Group Stage
+2004,Rangers,Scotland,6,1,1,4,4,10,-6,9,0,Fourth,4,Group Stage
+2004,Anderlecht,Belgium,6,2,1,3,4,6,-2,14,1,Fourth,7,Group Stage
+2004,Partizan,Serbia,6,0,3,3,3,8,-5,6,1,Fourth,3,Group Stage
+2004,AEK Athens,Greece,6,0,2,4,1,11,-10,10,1,Fourth,2,Group Stage
+2005,Liverpool,England,13,7,4,2,18,9,9,22,0,Second,10,Winner
+2005,AC Milan,Italy,13,9,2,2,21,9,12,16,0,First,13,Runner-Up
+2005,PSV,Netherlands,12,6,3,3,14,12,2,17,1,Second,10,Semifinal
+2005,Chelsea,England,12,6,2,4,21,13,8,21,1,First,13,Semifinal
+2005,Lyon,France,10,6,3,1,29,12,17,10,0,First,13,Quarterfinal
+2005,Juventus,Italy,10,6,2,2,9,4,5,23,1,First,16,Quarterfinal
+2005,Inter Milan,Italy,10,5,3,2,18,8,10,18,1,First,14,Quarterfinal
+2005,Bayern Munich,Germany,10,5,1,4,20,13,7,16,0,Second,10,Quarterfinal
+2005,Real Madrid,Spain,8,4,2,2,12,10,2,14,1,Second,11,RO16
+2005,Barcelona,Spain,8,4,1,3,13,11,2,7,0,Second,10,RO16
+2005,Werder Bremen,Germany,8,4,1,3,14,16,-2,18,1,Second,13,RO16
+2005,Monaco,France,8,4,0,4,10,7,3,10,1,First,12,RO16
+2005,Arsenal,England,8,3,4,1,13,9,4,12,2,First,10,RO16
+2005,Man United,England,8,3,2,3,14,11,3,10,0,Second,11,RO16
+2005,Bayer Leverkusen,Germany,8,3,2,3,15,13,2,24,1,First,11,RO16
+2005,FC Porto,Portugal,8,2,3,3,6,10,-4,20,0,Second,8,RO16
+2005,Olympiacos,Greece,6,3,1,2,5,5,0,17,1,Third,10,Group Stage
+2005,Fenerbahce,Turkey,6,3,0,3,10,13,-3,13,2,Third,9,Group Stage
+2005,Panathinaikos,Greece,6,2,3,1,11,8,3,13,0,Third,9,Group Stage
+2005,CSKA Moskva,Russia,6,2,1,3,5,5,0,11,1,Third,7,Group Stage
+2005,Valencia,Spain,6,2,1,3,6,10,-4,18,2,Third,7,Group Stage
+2005,Dynamo Kyiv,Ukraine,6,3,1,2,9,8,1,10,0,Second,10,Group Stage
+2005,Shakhtar Donetsk,Ukraine,6,2,0,4,5,9,-4,9,3,Third,6,Group Stage
+2005,Paris,France,6,1,2,3,3,8,-5,11,1,Fourth,5,Group Stage
+2005,Celtic,Scotland,6,1,2,3,4,10,-6,12,0,Fourth,5,Group Stage
+2005,Maccabi Tel Aviv,Israel,6,1,1,4,4,12,-8,8,0,Fourth,4,Group Stage
+2005,Ajax,Netherlands,6,1,1,4,6,10,-4,9,0,Third,4,Group Stage
+2005,Deportivo,Spain,6,0,2,4,0,9,-9,12,0,Fourth,2,Group Stage
+2005,Rosenborg,Norway,6,0,2,4,6,13,-7,4,0,Fourth,2,Group Stage
+2005,Sparta Praha,Czechia,6,0,1,5,2,13,-11,6,1,Fourth,1,Group Stage
+2005,Roma,Italy,6,0,1,5,4,14,-10,15,4,Fourth,1,Group Stage
+2005,Anderlecht,Belgium,6,0,0,6,4,17,-13,8,0,Fourth,0,Group Stage
+2006,Barcelona,Spain,13,9,4,0,24,5,19,22,0,First,16,Winner
+2006,Arsenal,England,13,8,4,1,15,4,11,17,2,First,16,Runner-Up
+2006,AC Milan,Italy,12,5,5,2,20,10,10,19,1,First,11,Semifinal
+2006,Villareal,Spain,12,3,7,2,8,7,1,29,0,First,10,Semifinal
+2006,Lyon,France,10,7,2,1,19,7,12,18,1,First,16,Quarterfinal
+2006,Inter Milan,Italy,10,6,2,2,14,8,6,20,2,First,13,Quarterfinal
+2006,Juventus,Italy,10,6,1,3,16,11,5,29,5,First,15,Quarterfinal
+2006,Benfica,Portugal,10,4,3,3,8,7,1,15,0,Second,8,Quarterfinal
+2006,Bayern Munich,Germany,8,4,2,2,12,9,3,13,0,Second,13,RO16
+2006,Liverpool,England,8,3,3,2,6,4,2,13,0,First,12,RO16
+2006,Chelsea,England,8,3,3,2,9,4,5,17,1,Second,11,RO16
+2006,Ajax,Netherlands,8,3,3,2,12,9,3,10,0,Second,11,RO16
+2006,Real Madrid,Spain,8,3,2,3,10,9,1,21,1,Second,10,RO16
+2006,PSV,Netherlands,8,3,1,4,4,11,-7,11,2,Second,10,RO16
+2006,Werder Bremen,Germany,8,3,1,4,16,16,0,13,1,Second,7,RO16
+2006,Rangers,Scotland,8,1,6,1,10,10,0,17,0,Second,7,RO16
+2006,Schalke,Germany,6,2,2,2,12,9,3,14,0,Third,8,Group Stage
+2006,Real Betis,Spain,6,2,1,3,3,7,-4,16,0,Third,7,Group Stage
+2006,Udinese,Italy,6,2,1,3,10,12,-2,15,2,Third,7,Group Stage
+2006,Club Brugge,Belgium,6,2,1,3,6,7,-1,7,0,Third,7,Group Stage
+2006,Lille,France,6,1,3,2,1,2,-1,13,0,Third,6,Group Stage
+2006,Petrzalka,Slovakia,6,1,3,2,5,9,-4,12,0,Third,6,Group Stage
+2006,Man United,England,6,1,3,2,3,4,-1,17,2,Fourth,6,Group Stage
+2006,FC Porto,Portugal,6,1,2,3,8,9,-1,11,0,Fourth,5,Group Stage
+2006,Thun,Switzerland,6,1,1,4,4,9,-5,13,2,Third,4,Group Stage
+2006,Rosenborg,Norway,6,1,1,4,6,11,-5,6,0,Third,4,Group Stage
+2006,Fenerbahce,Turkey,6,1,1,4,7,14,-7,13,3,Fourth,4,Group Stage
+2006,Panathinaikos,Greece,6,1,1,4,4,16,-12,11,0,Fourth,4,Group Stage
+2006,Olympiacos,Greece,6,1,1,4,7,13,-6,11,1,Fourth,4,Group Stage
+2006,Anderlecht,Belgium,6,1,0,5,1,8,-7,6,1,Fourth,3,Group Stage
+2006,Sparta Praha,Czechia,6,0,2,4,2,9,-7,5,1,Fourth,2,Group Stage
+2006,Rapid Wien,Austria,6,0,0,6,3,15,-12,9,0,Fourth,0,Group Stage
+2007,Liverpool,England,13,8,1,4,19,10,9,21,0,First,13,Runner-Up
+2007,AC Milan,Italy,13,7,3,3,20,10,10,19,1,First,10,Winner
+2007,Man United,England,12,8,0,4,23,13,10,22,1,First,12,Semifinal
+2007,Chelsea,England,12,7,3,2,17,9,8,24,0,First,13,Semifinal
+2007,Roma,Italy,10,5,2,3,13,12,1,24,0,Second,10,Quarterfinal
+2007,Valencia,Spain,10,4,4,2,16,11,5,22,0,First,13,Quarterfinal
+2007,Bayern Munich,Germany,10,4,4,2,16,11,5,22,2,First,12,Quarterfinal
+2007,PSV,Netherlands,10,4,2,4,8,11,-3,9,2,Second,10,Quarterfinal
+2007,Lyon,France,8,4,3,1,12,5,7,17,0,First,14,RO16
+2007,Barcelona,Spain,8,4,2,2,14,6,8,12,0,Second,11,RO16
+2007,Real Madrid,Spain,8,4,2,2,18,12,6,14,1,Second,11,RO16
+2007,Arsenal,England,8,3,3,2,8,5,3,11,0,First,11,RO16
+2007,Inter Milan,Italy,8,3,3,2,7,7,0,17,3,Second,10,RO16
+2007,FC Porto,Portugal,8,3,3,2,11,7,4,12,0,Second,11,RO16
+2007,Celtic,Scotland,8,3,1,4,8,10,-2,17,0,Second,9,RO16
+2007,Lille,France,8,2,3,3,8,7,1,21,1,Second,9,RO16
+2007,Werder Bremen,Germany,6,3,1,2,7,5,2,12,0,Third,10,Group Stage
+2007,CSKA Moskva,Russia,6,2,2,2,4,5,-1,15,0,Third,8,Group Stage
+2007,AEK Athens,Greece,6,2,2,2,6,9,-3,13,0,Third,8,Group Stage
+2007,Copenhagen,Denmark,6,2,1,3,5,8,-3,6,0,Fourth,7,Group Stage
+2007,Benfica,Portugal,6,2,1,3,7,8,-1,9,0,Third,7,Group Stage
+2007,Bordeaux,France,6,2,1,3,6,7,-1,7,1,Third,7,Group Stage
+2007,Shakhtar Donetsk,Ukraine,6,1,3,2,6,11,-5,21,2,Third,6,Group Stage
+2007,Sporting CP,Portugal,6,1,2,3,3,6,-3,13,0,Fourth,5,Group Stage
+2007,Spartak Moskva,Russia,6,1,2,3,7,11,-4,8,0,Third,5,Group Stage
+2007,FCSB,Romania,6,1,2,3,7,11,-4,18,0,Third,5,Group Stage
+2007,Galatasaray,Turkey,6,1,1,4,7,12,-5,12,2,Fourth,4,Group Stage
+2007,Hamburg,Germany,6,1,0,5,7,15,-8,12,3,Fourth,3,Group Stage
+2007,Anderlecht,Belgium,6,0,4,2,7,11,-4,12,1,Fourth,4,Group Stage
+2007,Olympiacos,Greece,6,0,3,3,6,11,-5,15,0,Fourth,3,Group Stage
+2007,Dynamo Kyiv,Ukraine,6,0,2,4,5,16,-11,12,1,Fourth,2,Group Stage
+2007,Levski,Bulgaria,6,0,0,6,1,17,-16,8,0,Fourth,0,Group Stage
+2008,Man United,England,13,9,4,0,20,6,14,17,0,First,16,Winner
+2008,Chelsea,England,13,6,6,1,20,8,12,17,1,First,12,Runner-Up
+2008,Barcelona,Spain,12,8,3,1,18,6,12,20,0,First,14,Semifinal
+2008,Liverpool,England,12,6,3,3,29,12,17,17,1,Second,10,Semifinal
+2008,Arsenal,England,10,5,3,2,19,9,10,17,0,Second,13,Quarterfinal
+2008,Fenerbahce,Turkey,10,5,2,3,15,14,1,21,1,Second,11,Quarterfinal
+2008,Roma,Italy,10,5,2,3,15,11,4,23,0,Second,11,Quarterfinal
+2008,Schalke,Germany,10,3,2,5,6,7,-1,26,0,Second,8,Quarterfinal
+2008,Sevilla,Spain,8,6,0,2,19,12,7,14,0,First,15,RO16
+2008,Inter Milan,Italy,8,5,0,3,12,7,5,20,4,First,15,RO16
+2008,FC Porto,Portugal,8,4,2,2,9,8,1,11,1,First,11,RO16
+2008,AC Milan,Italy,8,4,2,2,12,7,5,15,0,First,13,RO16
+2008,Olympiacos,Greece,8,3,3,2,11,10,1,17,1,Second,11,RO16
+2008,Lyon,France,8,3,2,3,12,12,0,17,0,Second,10,RO16
+2008,Real Madrid,Spain,8,3,2,3,15,13,2,17,1,First,11,RO16
+2008,Celtic,Scotland,8,3,0,5,7,10,-3,15,0,Second,9,RO16
+2008,Rosenborg,Norway,6,2,1,3,6,10,-4,8,0,Third,7,Group Stage
+2008,Marseille,France,6,2,1,3,6,9,-3,13,0,Third,7,Group Stage
+2008,Sporting CP,Portugal,6,2,1,3,9,8,1,9,0,Third,7,Group Stage
+2008,Benfica,Portugal,6,2,1,3,5,6,-1,9,1,Third,7,Group Stage
+2008,Rangers,Scotland,6,2,1,3,7,9,-2,1,1,Third,7,Group Stage
+2008,PSV,Netherlands,6,2,1,3,3,6,-3,8,1,Third,7,Group Stage
+2008,Shakhtar Donetsk,Ukraine,6,2,0,4,6,11,-5,12,0,Fourth,6,Group Stage
+2008,Besiktas,Turkey,6,2,0,4,4,15,-11,10,0,Fourth,6,Group Stage
+2008,Werder Bremen,Germany,6,2,0,4,8,13,-5,10,1,Third,6,Group Stage
+2008,Lazio,Italy,6,1,2,3,8,11,-3,12,1,Fourth,5,Group Stage
+2008,Slavia Praha,Czechia,6,1,2,3,5,16,-11,12,0,Third,5,Group Stage
+2008,Valencia,Spain,6,1,2,3,2,6,-4,8,1,Fourth,5,Group Stage
+2008,Stuttgart,Germany,6,1,0,5,7,15,-8,10,0,Fourth,3,Group Stage
+2008,CSKA Moskva,Russia,6,0,1,5,7,14,-7,15,0,Fourth,1,Group Stage
+2008,FCSB,Romania,6,0,1,5,4,10,-6,12,0,Fourth,1,Group Stage
+2008,Dynamo Kyiv,Ukraine,6,0,0,6,4,19,-15,8,0,Fourth,0,Group Stage
+2009,Barcelona,Spain,13,7,5,1,32,13,19,22,1,First,13,Winner
+2009,Man United,England,13,6,6,1,18,8,10,14,1,First,10,Runner-Up
+2009,Chelsea,England,12,5,6,1,20,13,7,30,2,Second,11,Semifinal
+2009,Arsenal,England,12,5,3,4,17,11,6,20,0,Second,11,Semifinal
+2009,Liverpool,England,10,6,3,1,21,12,9,17,0,First,14,Quarterfinal
+2009,Bayern Munich,Germany,10,6,3,1,25,10,15,17,0,First,14,Quarterfinal
+2009,FC Porto,Portugal,10,4,3,3,13,13,0,16,1,First,12,Quarterfinal
+2009,Villareal,Spain,10,3,5,2,13,13,0,21,3,Second,9,Quarterfinal
+2009,Roma,Italy,8,5,0,3,13,7,6,16,0,First,12,RO16
+2009,Sporting CP,Portugal,8,4,0,4,9,20,-11,13,1,Second,12,RO16
+2009,Real Madrid,Spain,8,4,0,4,9,10,-1,11,0,Second,12,RO16
+2009,Atletico Madrid,Spain,8,3,5,0,11,6,5,17,0,Second,12,RO16
+2009,Juventus,Italy,8,3,4,1,9,6,3,19,1,First,12,RO16
+2009,Lyon,France,8,3,3,2,17,16,1,22,0,Second,11,RO16
+2009,Panathinaikos,Greece,8,3,2,3,10,10,0,15,0,First,10,RO16
+2009,Inter Milan,Italy,8,2,3,3,8,9,-1,12,0,Second,8,RO16
+2009,Shakhtar Donetsk,Ukraine,6,3,0,3,11,7,4,19,0,Third,9,Group Stage
+2009,Dynamo Kyiv,Ukraine,6,2,2,2,4,4,0,16,1,Third,8,Group Stage
+2009,Bordeaux,France,6,2,1,3,5,11,-6,14,1,Third,7,Group Stage
+2009,Werder Bremen,Germany,6,1,4,1,7,9,-2,17,0,Third,7,Group Stage
+2009,Aalborg BK,Denmark,6,1,3,2,9,14,-5,8,1,Third,6,Group Stage
+2009,Anorthosis,Cyprus,6,1,3,2,8,8,0,10,0,Fourth,6,Group Stage
+2009,Fiorentina,Italy,6,1,3,2,5,8,-3,13,0,Third,6,Group Stage
+2009,Zenit,Russia,6,1,2,3,4,7,-3,11,1,Third,5,Group Stage
+2009,Celtic,Scotland,6,1,2,3,4,7,-3,8,0,Fourth,5,Group Stage
+2009,CFR Cluj,Romania,6,1,1,4,5,9,-4,16,1,Fourth,4,Group Stage
+2009,Marseille,France,6,1,1,4,5,7,-2,6,0,Third,4,Group Stage
+2009,PSV,Netherlands,6,1,0,5,5,14,-9,13,0,Fourth,3,Group Stage
+2009,BATE Borisov,Belarus,6,0,3,3,3,8,-5,14,1,Fourth,3,Group Stage
+2009,Fenerbahce,Turkey,6,0,2,4,4,11,-7,17,1,Fourth,2,Group Stage
+2009,Basel,Switzerland,6,0,1,5,2,16,-14,7,0,Fourth,1,Group Stage
+2009,FCSB,Romania,6,0,1,5,3,12,-9,18,1,Fourth,1,Group Stage
+2010,Inter Milan,Italy,13,8,3,2,17,9,8,32,2,Second,9,Winner
+2010,Bayern Munich,Germany,13,7,1,5,21,15,6,23,3,Second,10,Runner-Up
+2010,Barcelona,Spain,12,6,4,2,20,10,10,19,1,First,11,Semifinal
+2010,Lyon,France,12,6,2,4,17,10,7,27,2,Second,13,Semifinal
+2010,Bordeaux,France,10,8,1,1,14,6,8,12,1,First,16,Quarterfinal
+2010,Man United,England,10,7,1,2,21,12,9,15,2,First,13,Quarterfinal
+2010,Arsenal,England,10,5,2,3,21,13,8,19,0,First,13,Quarterfinal
+2010,CSKA Moskva,Russia,10,4,2,4,13,14,-1,25,2,Second,10,Quarterfinal
+2010,Fiorentina,Italy,8,6,0,2,18,11,7,15,2,First,15,RO16
+2010,FC Porto,Portugal,8,5,0,3,10,9,1,14,2,Second,12,RO16
+2010,Chelsea,England,8,4,2,2,12,7,5,14,1,First,14,RO16
+2010,Sevilla,Spain,8,4,2,2,13,7,6,9,0,First,13,RO16
+2010,Real Madrid,Spain,8,4,2,2,16,9,7,22,0,First,13,RO16
+2010,Olympiacos,Greece,8,3,1,4,5,8,-3,18,2,Second,10,RO16
+2010,Stuttgart,Germany,8,2,4,2,10,12,-2,14,0,Second,9,RO16
+2010,AC Milan,Italy,8,2,3,3,10,14,-4,17,0,Second,9,RO16
+2010,Unirea Urziceni,Romania,6,2,2,2,8,8,0,15,0,Third,8,Group Stage
+2010,Juventus,Italy,6,2,2,2,4,7,-3,10,0,Third,8,Group Stage
+2010,Liverpool,England,6,2,1,3,5,7,-2,3,0,Third,7,Group Stage
+2010,Wolfsburg,Germany,6,2,1,3,9,8,1,3,1,Third,7,Group Stage
+2010,Marseille,France,6,2,1,3,10,10,0,14,2,Third,7,Group Stage
+2010,Rubin Kazan,Russia,6,1,3,2,4,7,-3,12,0,Third,6,Group Stage
+2010,Dynamo Kyiv,Ukraine,6,1,2,3,7,9,-2,15,0,Fourth,5,Group Stage
+2010,Standard Liege,Belgium,6,1,2,3,7,9,-2,13,1,Third,5,Group Stage
+2010,Zurich,Switzerland,6,1,1,4,5,14,-9,14,1,Fourth,4,Group Stage
+2010,Besiktas,Turkey,6,1,1,4,3,8,-5,14,0,Fourth,4,Group Stage
+2010,AZ Alkmaar,Netherlands,6,0,4,2,4,8,-4,9,0,Fourth,4,Group Stage
+2010,Atletico Madrid,Spain,6,0,3,3,3,12,-9,12,0,Third,3,Group Stage
+2010,APOEL,Cyprus,6,0,3,3,4,7,-3,12,0,Fourth,3,Group Stage
+2010,Rangers,Scotland,6,0,2,4,4,13,-9,11,0,Fourth,2,Group Stage
+2010,Maccabi Haifa,Israel,6,0,0,6,0,8,-8,13,2,Fourth,0,Group Stage
+2010,Debrecen,Hungary,6,0,0,6,5,19,-14,7,0,Fourth,0,Group Stage
+2011,Man United,England,13,9,3,1,19,7,12,14,0,First,14,Runner-Up
+2011,Barcelona,Spain,13,9,3,1,30,9,21,15,1,First,14,Winner
+2011,Real Madrid,Spain,12,8,3,1,25,6,19,32,3,First,16,Semifinal
+2011,Schalke,Germany,12,7,2,3,22,14,8,29,2,First,13,Semifinal
+2011,Shakhtar Donetsk,Ukraine,10,7,0,3,19,14,5,24,0,First,15,Quarterfinal
+2011,Chelsea,England,10,6,1,3,17,7,10,16,1,First,15,Quarterfinal
+2011,Tottenham Hotspur,England,10,4,3,3,19,16,3,13,3,First,11,Quarterfinal
+2011,Inter Milan,Italy,10,4,1,5,18,21,-3,19,1,Second,10,Quarterfinal
+2011,Bayern Munich,Germany,8,6,0,2,19,9,10,17,0,First,15,RO16
+2011,Arsenal,England,8,5,0,3,21,11,10,16,2,Second,12,RO16
+2011,Marseille,France,8,4,1,3,13,5,8,11,0,Second,12,RO16
+2011,Valencia,Spain,8,3,3,2,17,8,9,11,0,Second,11,RO16
+2011,Lyon,France,8,3,2,3,12,14,-2,15,0,Second,10,RO16
+2011,Copenhagen,Denmark,8,3,2,3,7,7,0,12,0,Second,10,RO16
+2011,Roma,Italy,8,3,1,4,12,17,-5,16,1,Second,10,RO16
+2011,AC Milan,Italy,8,2,3,3,7,8,-1,23,0,Second,8,RO16
+2011,SC Braga,Portugal,6,3,0,3,5,11,-6,11,0,Third,9,Group Stage
+2011,Spartak Moskva,Russia,6,3,0,3,7,10,-3,7,2,Third,9,Group Stage
+2011,Ajax,Netherlands,6,2,1,3,6,10,-4,10,1,Third,7,Group Stage
+2011,Basel,Switzerland,6,2,0,4,8,11,-3,9,1,Third,6,Group Stage
+2011,Benfica,Portugal,6,2,0,4,7,12,-5,14,1,Third,6,Group Stage
+2011,Rubin Kazan,Russia,6,1,3,2,2,4,-2,10,0,Third,6,Group Stage
+2011,FC Twente,Netherlands,6,1,3,2,9,11,-2,10,0,Third,6,Group Stage
+2011,Rangers,Scotland,6,1,3,2,3,6,-3,10,0,Third,6,Group Stage
+2011,Hapoel Tel Aviv,Israel,6,1,2,3,7,10,-3,14,0,Fourth,5,Group Stage
+2011,Werder Bremen,Germany,6,1,2,3,6,12,-6,9,1,Fourth,5,Group Stage
+2011,CFR Cluj,Romania,6,1,1,4,6,12,-6,12,1,Fourth,4,Group Stage
+2011,AJ Auxerre,France,6,1,0,5,3,12,-9,10,2,Fourth,3,Group Stage
+2011,Panathinaikos,Greece,6,0,2,4,2,13,-11,13,1,Fourth,2,Group Stage
+2011,Bursaspor,Turkey,6,0,1,5,2,16,-14,9,0,Fourth,1,Group Stage
+2011,MSK Zilina,Slovakia,6,0,0,6,3,19,-16,9,0,Fourth,0,Group Stage
+2011,Partizan,Serbia,6,0,0,6,2,13,-11,11,1,Fourth,0,Group Stage
+2012,Bayern Munich,Germany,13,8,2,3,26,11,15,29,1,First,13,Runner-Up
+2012,Chelsea,England,13,7,4,2,25,12,13,31,1,First,11,Winner
+2012,Real Madrid,Spain,12,10,1,1,35,9,26,24,1,First,18,Semifinal
+2012,Barcelona,Spain,12,8,3,1,35,10,25,17,0,First,16,Semifinal
+2012,Benfica,Portugal,10,4,3,3,13,10,3,27,2,First,12,Quarterfinal
+2012,Marseille,France,10,4,1,5,9,10,-1,23,3,Second,10,Quarterfinal
+2012,AC Milan,Italy,10,3,4,3,16,14,2,26,1,Second,9,Quarterfinal
+2012,APOEL,Cyprus,10,3,3,4,9,15,-6,27,1,First,9,Quarterfinal
+2012,Basel,Switzerland,8,4,2,2,12,17,-5,18,1,Second,11,RO16
+2012,Arsenal,England,8,4,2,2,10,10,0,17,0,First,11,RO16
+2012,Napoli,Italy,8,4,2,2,14,11,3,21,1,Second,11,RO16
+2012,Inter Milan,Italy,8,4,1,3,10,9,1,16,0,First,10,RO16
+2012,Zenit,Russia,8,3,3,2,10,9,1,18,1,Second,9,RO16
+2012,Lyon,France,8,3,2,3,10,8,2,15,0,Second,8,RO16
+2012,Bayer Leverkusen,Germany,8,3,1,4,10,18,-8,20,0,Second,10,RO16
+2012,CSKA Moskva,Russia,8,2,3,3,11,13,-2,16,1,Second,8,RO16
+2012,Man City,England,6,3,1,2,9,6,3,10,0,Third,10,Group Stage
+2012,Olympiacos,Greece,6,3,0,3,8,6,2,11,0,Third,9,Group Stage
+2012,Man United,England,6,2,3,1,11,8,3,8,1,Third,9,Group Stage
+2012,Valencia,Spain,6,2,2,2,12,7,5,11,0,Third,8,Group Stage
+2012,Ajax,Netherlands,6,2,2,2,6,6,0,6,0,Third,8,Group Stage
+2012,FC Porto,Portugal,6,2,2,2,7,7,0,19,1,Third,8,Group Stage
+2012,Trabzonspor,Turkey,6,1,4,1,3,5,-2,15,0,Third,7,Group Stage
+2012,Lille,France,6,1,3,2,6,6,0,15,0,Fourth,6,Group Stage
+2012,Viktoria Plzen,Czechia,6,1,2,3,4,11,-7,15,1,Third,5,Group Stage
+2012,Shakhtar Donetsk,Ukraine,6,1,2,3,6,8,-2,17,2,Fourth,5,Group Stage
+2012,Borussia Dortmund,Germany,6,1,1,4,6,12,-6,7,0,Fourth,4,Group Stage
+2012,Genk,Belgium,6,0,3,3,2,16,-14,9,0,Fourth,3,Group Stage
+2012,BATE Borisov,Belarus,6,0,2,4,2,14,-12,8,0,Fourth,2,Group Stage
+2012,Villareal,Spain,6,0,0,6,2,14,-12,20,0,Fourth,0,Group Stage
+2012,Dinamo Zagreb,Croatia,6,0,0,6,3,22,-19,18,1,Fourth,0,Group Stage
+2012,Otelul,Romania,6,0,0,6,3,11,-8,15,2,Fourth,0,Group Stage
+2013,Bayern Munich,Germany,13,10,1,2,31,11,20,30,1,First,13,Winner
+2013,Borussia Dortmund,Germany,13,7,4,2,24,14,10,14,0,First,14,Runner-Up
+2013,Real Madrid,Spain,12,6,3,3,26,18,8,25,2,Second,11,Semifinal
+2013,Barcelona,Spain,12,5,3,4,18,17,1,25,1,First,13,Semifinal
+2013,Paris,France,10,6,3,1,20,8,12,22,1,First,15,Quarterfinal
+2013,Juventus,Italy,10,5,3,2,17,8,9,20,0,First,12,Quarterfinal
+2013,Galatasaray,Turkey,10,5,2,3,14,14,0,26,0,Second,10,Quarterfinal
+2013,Malaga,Spain,10,4,4,2,16,9,7,24,0,First,12,Quarterfinal
+2013,FC Porto,Portugal,8,5,1,2,11,6,5,15,1,Second,13,RO16
+2013,Valencia,Spain,8,4,2,2,14,8,6,21,2,Second,13,RO16
+2013,Man United,England,8,4,1,3,11,9,2,12,0,First,12,RO16
+2013,Arsenal,England,8,4,1,3,13,11,2,26,0,Second,10,RO16
+2013,Schalke,Germany,8,3,4,1,13,10,3,17,0,First,12,RO16
+2013,Shakhtar Donetsk,Ukraine,8,3,2,3,14,13,1,15,0,Second,10,RO16
+2013,AC Milan,Italy,8,3,2,3,9,10,-1,22,0,Second,8,RO16
+2013,Celtic,Scotland,8,3,1,4,9,13,-4,16,0,Second,10,RO16
+2013,CFR Cluj,Romania,6,3,1,2,9,7,2,10,1,Third,10,Group Stage
+2013,Chelsea,England,6,3,1,2,16,10,6,6,0,Third,10,Group Stage
+2013,Olympiacos,Greece,6,3,0,3,9,9,0,13,0,Third,9,Group Stage
+2013,Benfica,Portugal,6,2,2,2,5,5,0,16,0,Third,8,Group Stage
+2013,Zenit,Russia,6,2,1,3,6,9,-3,15,1,Third,7,Group Stage
+2013,BATE Borisov,Belarus,6,2,0,4,9,15,-6,18,1,Third,6,Group Stage
+2013,Dynamo Kyiv,Ukraine,6,1,2,3,6,10,-4,13,0,Third,5,Group Stage
+2013,Anderlecht,Belgium,6,1,2,3,4,9,-5,17,1,Fourth,5,Group Stage
+2013,Ajax,Netherlands,6,1,1,4,8,16,-8,7,0,Third,4,Group Stage
+2013,Lille,France,6,1,0,5,4,13,-9,20,2,Fourth,3,Group Stage
+2013,SC Braga,Portugal,6,1,0,5,7,13,-6,12,1,Fourth,3,Group Stage
+2013,Spartak Moskva,Russia,6,1,0,5,7,14,-7,19,3,Fourth,3,Group Stage
+2013,Man City,England,6,0,3,3,7,11,-4,15,0,Fourth,3,Group Stage
+2013,Montpellier,France,6,0,2,4,6,12,-6,15,1,Fourth,2,Group Stage
+2013,Nordsjaelland,Denmark,6,0,1,5,4,22,-18,14,0,Fourth,1,Group Stage
+2013,Dinamo Zagreb,Croatia,6,0,1,5,1,14,-13,8,0,Fourth,1,Group Stage
+2014,Real Madrid,Spain,13,11,1,1,41,10,31,24,1,First,16,Winner
+2014,Atletico Madrid,Spain,13,9,3,1,26,10,16,34,0,First,16,Runner-Up
+2014,Bayern Munich,Germany,12,7,2,3,24,13,11,15,2,First,15,Semifinal
+2014,Chelsea,England,12,6,2,4,19,10,9,25,0,First,12,Semifinal
+2014,Paris,France,10,7,1,2,25,9,16,21,1,First,13,Quarterfinal
+2014,Barcelona,Spain,10,6,2,2,21,8,13,20,0,First,13,Quarterfinal
+2014,Borussia Dortmund,Germany,10,6,0,4,18,13,5,19,1,First,12,Quarterfinal
+2014,Man United,England,10,5,3,2,17,9,8,18,1,First,14,Quarterfinal
+2014,Man City,England,8,5,0,3,19,14,5,23,2,Second,15,RO16
+2014,Arsenal,England,8,4,1,3,9,8,1,13,2,Second,12,RO16
+2014,Olympiacos,Greece,8,4,1,3,12,11,1,21,0,Second,10,RO16
+2014,Schalke,Germany,8,3,1,4,8,15,-7,18,0,Second,10,RO16
+2014,Bayer Leverkusen,Germany,8,3,1,4,10,16,-6,23,2,Second,10,RO16
+2014,Zenit,Russia,8,2,3,3,9,14,-5,16,1,Second,6,RO16
+2014,AC Milan,Italy,8,2,3,3,9,10,-1,18,1,Second,9,RO16
+2014,Galatasaray,Turkey,8,2,2,4,9,17,-8,14,0,Second,7,RO16
+2014,Napoli,Italy,6,4,0,2,10,9,1,11,0,Third,12,Group Stage
+2014,Benfica,Portugal,6,3,1,2,8,8,0,11,0,Third,10,Group Stage
+2014,Basel,Switzerland,6,2,2,2,5,6,-1,13,1,Third,8,Group Stage
+2014,Shakhtar Donetsk,Ukraine,6,2,2,2,7,6,1,13,0,Third,8,Group Stage
+2014,Ajax,Netherlands,6,2,2,2,5,8,-3,10,1,Third,8,Group Stage
+2014,Juventus,Italy,6,1,3,2,9,9,0,9,1,Third,6,Group Stage
+2014,Austria Wien,Austria,6,1,2,3,5,10,-5,17,0,Fourth,5,Group Stage
+2014,FC Porto,Portugal,6,1,2,3,4,7,-3,15,1,Third,5,Group Stage
+2014,Copenhagen,Denmark,6,1,1,4,4,13,-9,9,0,Fourth,4,Group Stage
+2014,Viktoria Plzen,Czechia,6,1,0,5,6,17,-11,12,0,Third,3,Group Stage
+2014,CSKA Moskva,Russia,6,1,0,5,8,17,-9,7,2,Fourth,3,Group Stage
+2014,Celtic,Scotland,6,1,0,5,3,14,-11,14,2,Fourth,3,Group Stage
+2014,FCSB,Romania,6,0,3,3,2,10,-8,13,0,Fourth,3,Group Stage
+2014,Real Sociedad,Spain,6,0,1,5,1,10,-9,12,0,Fourth,1,Group Stage
+2014,Anderlecht,Belgium,6,0,1,5,4,17,-13,22,4,Fourth,1,Group Stage
+2014,Marseille,France,6,0,0,6,5,14,-9,15,1,Fourth,0,Group Stage
+2015,Barcelona,Spain,13,11,0,2,31,11,20,20,1,First,15,Winner
+2015,Juventus,Italy,13,7,3,3,17,10,7,25,0,Second,10,Runner-Up
+2015,Real Madrid,Spain,12,8,2,2,24,9,15,21,0,First,18,Semifinal
+2015,Bayern Munich,Germany,12,8,1,3,33,13,20,26,2,First,15,Semifinal
+2015,FC Porto,Portugal,10,6,3,1,25,12,13,21,1,First,14,Quarterfinal
+2015,Atletico Madrid,Spain,10,5,2,3,15,5,10,32,2,First,13,Quarterfinal
+2015,Paris,France,10,4,3,3,14,15,-1,14,1,Second,13,Quarterfinal
+2015,Monaco,France,10,4,3,3,7,5,2,22,0,First,11,Quarterfinal
+2015,Arsenal,England,8,5,1,2,18,11,7,14,1,Second,13,RO16
+2015,Chelsea,England,8,4,4,0,20,6,14,13,0,First,14,RO16
+2015,Borussia Dortmund,Germany,8,4,1,3,15,9,6,4,0,First,13,RO16
+2015,Bayer Leverkusen,Germany,8,4,1,3,8,5,3,23,2,Second,10,RO16
+2015,Schalke,Germany,8,3,2,3,13,19,-6,11,0,Second,8,RO16
+2015,Shakhtar Donetsk,Ukraine,8,2,4,2,15,11,4,20,1,Second,9,RO16
+2015,Basel,Switzerland,8,2,2,4,8,13,-5,24,2,Second,7,RO16
+2015,Man City,England,8,2,2,4,10,11,-1,23,3,Second,8,RO16
+2015,Olympiacos,Greece,6,3,0,3,10,13,-3,10,0,Third,9,Group Stage
+2015,Zenit,Russia,6,2,1,3,4,6,-2,15,0,Third,7,Group Stage
+2015,Sporting CP,Portugal,6,2,1,3,12,12,0,17,1,Third,7,Group Stage
+2015,Athletic Bilbao,Spain,6,2,1,3,5,6,-1,17,0,Third,7,Group Stage
+2015,Anderlecht,Belgium,6,1,3,2,8,10,-2,10,0,Third,6,Group Stage
+2015,Liverpool,England,6,1,2,3,5,9,-4,8,1,Third,5,Group Stage
+2015,CSKA Moskva,Russia,6,1,2,3,6,13,-7,10,0,Fourth,5,Group Stage
+2015,Benfica,Portugal,6,1,2,3,2,6,-4,16,3,Fourth,5,Group Stage
+2015,Ajax,Netherlands,6,1,2,3,8,10,-2,16,1,Third,5,Group Stage
+2015,Roma,Italy,6,1,2,3,8,14,-6,6,0,Third,5,Group Stage
+2015,Ludogorets,Bulgaria,6,1,1,4,5,14,-9,13,1,Fourth,4,Group Stage
+2015,BATE Borisov,Belarus,6,1,0,5,2,24,-22,11,1,Fourth,3,Group Stage
+2015,Malmo,Sweden,6,1,0,5,4,15,-11,17,2,Fourth,3,Group Stage
+2015,Maribor,Slovenia,6,0,3,3,4,13,-9,12,0,Fourth,3,Group Stage
+2015,APOEL,Cyprus,6,0,1,5,1,12,-11,9,0,Fourth,1,Group Stage
+2015,Galatasaray,Turkey,6,0,1,5,4,19,-15,18,1,Fourth,1,Group Stage
+2016,Real Madrid,Spain,13,9,3,1,28,6,22,24,0,First,16,Winner
+2016,Atletico Madrid,Spain,13,6,4,3,17,8,9,23,1,First,13,Runner-Up
+2016,Bayern Munich,Germany,12,8,2,2,30,11,19,20,1,First,15,Semifinal
+2016,Man City,England,12,6,3,3,18,12,6,15,0,First,12,Semifinal
+2016,Barcelona,Spain,10,7,2,1,22,8,14,23,0,First,14,Quarterfinal
+2016,Wolfsburg,Germany,10,7,0,3,15,11,4,18,0,First,12,Quarterfinal
+2016,Paris,France,10,6,2,2,18,6,12,22,0,Second,13,Quarterfinal
+2016,Benfica,Portugal,10,5,2,3,15,12,3,29,1,Second,10,Quarterfinal
+2016,Zenit,Russia,8,5,0,3,14,9,5,27,2,First,15,RO16
+2016,Chelsea,England,8,4,1,3,15,7,8,15,0,First,13,RO16
+2016,Dynamo Kyiv,Ukraine,8,3,3,2,9,7,2,18,0,Second,11,RO16
+2016,Juventus,Italy,8,3,3,2,10,9,1,14,1,Second,11,RO16
+2016,PSV,Netherlands,8,3,3,2,8,7,1,22,2,Second,10,RO16
+2016,Gent,Belgium,8,3,1,4,10,11,-1,18,2,Second,10,RO16
+2016,Arsenal,England,8,3,0,5,13,15,-2,17,1,Second,9,RO16
+2016,Roma,Italy,8,1,3,4,11,20,-9,10,0,Second,6,RO16
+2016,FC Porto,Portugal,6,3,1,2,9,8,1,13,0,Third,10,Group Stage
+2016,Olympiacos,Greece,6,3,0,3,6,13,-7,12,0,Third,9,Group Stage
+2016,Man United,England,6,2,2,2,7,7,0,11,0,Third,8,Group Stage
+2016,Sevilla,Spain,6,2,0,4,8,11,-3,7,0,Third,6,Group Stage
+2016,Valencia,Spain,6,2,0,4,5,9,-4,18,1,Third,6,Group Stage
+2016,Bayer Leverkusen,Germany,6,1,3,2,13,12,1,12,1,Third,6,Group Stage
+2016,BATE Borisov,Belarus,6,1,2,3,5,12,-7,18,0,Fourth,5,Group Stage
+2016,Borussia Monchengladbach,Germany,6,1,2,3,8,12,-4,11,0,Fourth,5,Group Stage
+2016,Galatasaray,Turkey,6,1,2,3,6,10,-4,13,0,Third,5,Group Stage
+2016,CSKA Moskva,Russia,6,1,1,4,5,9,-4,10,0,Fourth,4,Group Stage
+2016,Lyon,France,6,1,1,4,5,9,-4,15,1,Fourth,4,Group Stage
+2016,Shakhtar Donetsk,Ukraine,6,1,0,5,7,14,-7,17,1,Third,3,Group Stage
+2016,Dinamo Zagreb,Croatia,6,1,0,5,3,14,-11,15,1,Fourth,3,Group Stage
+2016,Malmo,Sweden,6,1,0,5,1,21,-20,14,2,Fourth,3,Group Stage
+2016,Astana,Kazakhstan,6,0,4,2,5,11,-6,12,0,Fourth,4,Group Stage
+2016,Maccabi Tel Aviv,Israel,6,0,0,6,1,16,-15,14,1,Fourth,0,Group Stage
+2017,Real Madrid,Spain,13,9,3,1,36,18,18,19,0,Second,12,Winner
+2017,Juventus,Italy,13,9,3,1,22,7,15,31,2,First,14,Runner-Up
+2017,Atletico Madrid,Spain,12,8,2,2,15,9,6,21,0,First,15,Semifinal
+2017,Monaco,France,12,6,2,4,22,20,2,28,0,First,11,Semifinal
+2017,Barcelona,Spain,10,6,1,3,26,12,14,27,1,First,15,Quarterfinal
+2017,Bayern Munich,Germany,10,6,0,4,27,14,13,20,2,Second,12,Quarterfinal
+2017,Leicester City,England,10,5,2,3,11,10,1,19,0,First,13,Quarterfinal
+2017,Borussia Dortmund,Germany,10,5,2,3,28,16,12,19,0,First,14,Quarterfinal
+2017,Paris,France,8,4,3,1,18,13,5,17,1,Second,12,RO16
+2017,Sevilla,Spain,8,4,2,2,9,6,3,19,2,Second,11,RO16
+2017,Arsenal,England,8,4,2,2,20,16,4,15,2,First,14,RO16
+2017,Man City,England,8,3,3,2,18,16,2,16,2,Second,9,RO16
+2017,Benfica,Portugal,8,3,2,3,11,14,-3,13,0,Second,8,RO16
+2017,Napoli,Italy,8,3,2,3,13,14,-1,10,0,First,11,RO16
+2017,FC Porto,Portugal,8,3,2,3,9,6,3,17,2,Second,11,RO16
+2017,Bayer Leverkusen,Germany,8,2,5,1,10,8,2,16,0,Second,10,RO16
+2017,Copenhagen,Denmark,6,2,3,1,7,2,5,9,1,Third,9,Group Stage
+2017,Lyon,France,6,2,2,2,5,3,2,14,0,Third,8,Group Stage
+2017,Tottenham Hotspur,England,6,2,1,3,6,6,0,6,0,Third,7,Group Stage
+2017,Besiktas,Turkey,6,1,4,1,9,14,-5,15,2,Third,7,Group Stage
+2017,FC Rostov,Russia,6,1,2,3,6,12,-6,10,0,Third,5,Group Stage
+2017,Borussia Monchengladbach,Germany,6,1,2,3,5,12,-7,10,2,Third,5,Group Stage
+2017,Dynamo Kyiv,Ukraine,6,1,2,3,8,6,2,15,1,Fourth,5,Group Stage
+2017,Legia Warsaw,Poland,6,1,1,4,9,24,-15,15,0,Third,4,Group Stage
+2017,Sporting CP,Portugal,6,1,0,5,5,8,-3,16,2,Fourth,3,Group Stage
+2017,CSKA Moskva,Russia,6,0,3,3,5,11,-6,7,0,Fourth,3,Group Stage
+2017,Celtic,Scotland,6,0,3,3,5,16,-11,8,0,Fourth,3,Group Stage
+2017,Ludogorets,Bulgaria,6,0,3,3,6,15,-9,9,0,Third,3,Group Stage
+2017,Basel,Switzerland,6,0,2,4,3,12,-9,13,1,Fourth,2,Group Stage
+2017,PSV,Netherlands,6,0,2,4,4,11,-7,6,0,Fourth,2,Group Stage
+2017,Dinamo Zagreb,Croatia,6,0,0,6,0,15,-15,13,1,Fourth,0,Group Stage
+2017,Club Brugge,Belgium,6,0,0,6,2,14,-12,14,0,Fourth,0,Group Stage
+2018,Real Madrid,Spain,13,9,2,2,33,16,17,21,0,Second,13,Winner
+2018,Liverpool,England,13,7,4,2,41,16,25,22,1,First,12,Runner-Up
+2018,Bayern Munich,Germany,12,8,2,2,26,12,14,23,0,Second,15,Semifinal
+2018,Roma,Italy,12,6,2,4,21,19,2,17,1,First,11,Semifinal
+2018,Barcelona,Spain,10,6,3,1,17,6,11,19,1,First,14,Quarterfinal
+2018,Man City,England,10,6,0,4,20,12,8,19,0,First,15,Quarterfinal
+2018,Juventus,Italy,10,5,3,2,14,12,2,27,2,Second,11,Quarterfinal
+2018,Sevilla,Spain,10,3,5,2,15,15,0,19,1,Second,9,Quarterfinal
+2018,Tottenham Hotspur,England,8,5,2,1,18,8,10,13,1,First,16,RO16
+2018,Man United,England,8,5,1,2,13,5,8,10,0,First,15,RO16
+2018,Basel,Switzerland,8,5,0,3,13,10,3,14,0,Second,12,RO16
+2018,Paris,France,8,5,0,3,27,9,18,13,1,First,15,RO16
+2018,Shakhtar Donetsk,Ukraine,8,5,0,3,11,11,0,17,2,Second,12,RO16
+2018,Besiktas,Turkey,8,4,2,2,12,13,-1,20,1,First,14,RO16
+2018,Chelsea,England,8,3,3,2,17,12,5,10,0,Second,11,RO16
+2018,FC Porto,Portugal,8,3,2,3,15,15,0,14,1,Second,10,RO16
+2018,CSKA Moskva,Russia,6,3,0,3,8,10,-2,13,0,Third,9,Group Stage
+2018,Sporting CP,Portugal,6,2,1,3,8,9,-1,19,0,Third,7,Group Stage
+2018,RB Leipzig,Germany,6,2,1,3,10,11,-1,11,1,Third,7,Group Stage
+2018,Napoli,Italy,6,2,0,4,11,11,0,13,0,Third,6,Group Stage
+2018,Atletico Madrid,Spain,6,1,4,1,5,4,1,7,1,Third,7,Group Stage
+2018,Spartak Moskva,Russia,6,1,3,2,9,13,-4,12,0,Third,6,Group Stage
+2018,Feyenoord,Netherlands,6,1,0,5,5,14,-9,17,1,Fourth,3,Group Stage
+2018,Anderlecht,Belgium,6,1,0,5,2,17,-15,6,1,Fourth,3,Group Stage
+2018,Celtic,Scotland,6,1,0,5,5,18,-13,6,0,Third,3,Group Stage
+2018,Maribor,Slovenia,6,0,3,3,3,16,-13,9,0,Fourth,3,Group Stage
+2018,Qarabag,Azerbaijan,6,0,2,4,2,14,-12,14,3,Fourth,2,Group Stage
+2018,Borussia Dortmund,Germany,6,0,2,4,7,13,-6,10,0,Third,2,Group Stage
+2018,APOEL,Cyprus,6,0,2,4,2,17,-15,13,0,Fourth,2,Group Stage
+2018,Monaco,France,6,0,2,4,6,16,-10,14,1,Fourth,2,Group Stage
+2018,Olympiacos,Greece,6,0,1,5,4,13,-9,15,0,Fourth,1,Group Stage
+2018,Benfica,Portugal,6,0,0,6,1,14,-13,13,2,Fourth,0,Group Stage

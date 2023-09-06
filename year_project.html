@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>{{ year }}</title>
+    </head>
+    <body>
+        <h1>{{ year }} and the four years following: {{ data_request }}</h1>
+            <img src="{{ url_for('fig', year=year, data_request=data_request)}}">
+        <form action="/submit_projection" method="POST">
+            <p>Select which year you'd like to project to:
+                <input type="text" name="year" placeholder="yyyy">
+                <input type="submit" value="Submit"></p>
+        </form>
+
+    </body>
+</html>
